@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.weather_heading {
+  color: darkblue;
+  font-family: cursive;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.weather_section {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  height: 400px;
+  border-radius: 20px;
+  margin: 20px;
+}
